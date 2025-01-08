@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @CLQuantizer
 - 👀 I’m interested in automating perception.
-- 🌱 I’m currently learning about wave detection
 - 📫 Reach me on github here
